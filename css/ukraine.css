@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 16px;
+}
+.page{
+    background: rgb(71,138,251);
+background: linear-gradient(180deg, rgba(71,138,251,1) 0%, rgba(246,244,26,1) 100%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+width: 100%;
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba( 0, 0, 0, 0.5);
+    top: 0;
+    position: fixed;
+}
+.war{
+    width: 500px;
+    justify-content: center;
+    margin: 100px 700px;
+}
+.ukraineimg{
+    height: 280px;
+    overflow: hidden;
+}
+
+ 
+
+footer{
+    
+}
+  
+   
